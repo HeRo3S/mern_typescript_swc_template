@@ -1,3 +1,5 @@
+/* eslint-disable import/no-extraneous-dependencies */
+/// <reference types="vitest" />
 import react from '@vitejs/plugin-react-swc';
 import { defineConfig } from 'vite';
 
